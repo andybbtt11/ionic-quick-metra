@@ -1,0 +1,21 @@
+#nextTrain {
+    font-size: 30;
+    font-family: System-Regular;
+    font-weight: bold;
+    text-length: 200;
+    fill: white;
+  }
+  
+  #title {
+    font-size: 20;
+    font-family: System-Regular;
+    font-weight: bold;
+    fill: white;
+  }
+  
+  #background {
+    width: 100%;
+    height: 100%;
+    viewport-fill: #4286f4;
+  }
+  

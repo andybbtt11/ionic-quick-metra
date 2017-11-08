@@ -1,0 +1,21 @@
+<svg id="background">
+  <text
+    id="title"
+    y="40"
+    x="10"
+  >
+    NEXT SCHEDULED TRAIN
+  </text>
+  <textarea 
+    width="100%"
+    id="nextTrain"
+    text-buffer="Getting next stop..."
+    x="10"
+    y="50%-50"
+  />
+  <use id="reverse" href="#combo-button-upper-right" fill="white">
+    <set href="combo-button-icon" attributeName="href" to="reverse.png"/>
+    <set href="combo-button-icon-press" attributeName="href" to="reverse.png"/>
+    <set href="combo-button-stroke" attributeName="display" to="inline"/>
+  </use>
+</svg>
